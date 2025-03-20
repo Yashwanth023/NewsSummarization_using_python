@@ -1,0 +1,11 @@
+flask
+flask-cors
+requests
+beautifulsoup4
+textblob
+vaderSentiment
+gtts
+spacy
+transformers
+torch
+streamlit
